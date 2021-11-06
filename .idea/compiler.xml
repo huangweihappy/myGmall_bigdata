@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="MYScala" />
+        <module name="MySparkSQL" />
+        <module name="Zookeeper" />
+        <module name="MySpark" />
+        <module name="SparkStreaming" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gmall-user-manage" target="1.8" />
+      <module name="gmallCollect" target="1.8" />
+      <module name="guliVideoETL" target="1.8" />
+      <module name="HdfsClient" target="1.8" />
+      <module name="MapReduce" target="1.8" />
+      <module name="myGuliVideoETL" target="1.8" />
+      <module name="myHbaseTest" target="1.8" />
+      <module name="MyPhoenixClient" target="1.8" />
+      <module name="MYScala" target="1.8" />
+      <module name="MySpark" target="1.8" />
+      <module name="MySparkSQL" target="1.8" />
+      <module name="SparkStreaming" target="1.8" />
+      <module name="Zookeeper" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="gmall-user-manage" options="-parameters" />
+    </option>
+  </component>
+</project>

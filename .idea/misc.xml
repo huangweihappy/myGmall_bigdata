@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/gmall-user-manage/pom.xml" />
+        <option value="$PROJECT_DIR$/HdfsClient/pom.xml" />
+        <option value="$PROJECT_DIR$/MapReduce/pom.xml" />
+        <option value="$PROJECT_DIR$/Zookeeper/pom.xml" />
+        <option value="$PROJECT_DIR$/guliVideoETL/pom.xml" />
+        <option value="$PROJECT_DIR$/myGuliVideoETL/pom.xml" />
+        <option value="$PROJECT_DIR$/gmallCollect/pom.xml" />
+        <option value="$PROJECT_DIR$/myHbaseTest/pom.xml" />
+        <option value="$PROJECT_DIR$/MyPhoenixClient/pom.xml" />
+        <option value="$PROJECT_DIR$/MYScala/pom.xml" />
+        <option value="$PROJECT_DIR$/MySpark/pom.xml" />
+        <option value="$PROJECT_DIR$/MySparkSQL/pom.xml" />
+        <option value="$PROJECT_DIR$/SparkStreaming/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>

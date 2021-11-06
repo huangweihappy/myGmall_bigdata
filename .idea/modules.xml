@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MYScala/MYScala.iml" filepath="$PROJECT_DIR$/MYScala/MYScala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MySpark/MySpark.iml" filepath="$PROJECT_DIR$/MySpark/MySpark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MySparkSQL/MySparkSQL.iml" filepath="$PROJECT_DIR$/MySparkSQL/MySparkSQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SparkStreaming/SparkStreaming.iml" filepath="$PROJECT_DIR$/SparkStreaming/SparkStreaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Zookeeper/Zookeeper.iml" filepath="$PROJECT_DIR$/Zookeeper/Zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/myGmall.iml" filepath="$PROJECT_DIR$/.idea/myGmall.iml" />
+    </modules>
+  </component>
+</project>
